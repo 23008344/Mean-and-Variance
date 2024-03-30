@@ -1,7 +1,5 @@
-NAME  : VARNIKA.P
-
-REG. NO.: 212223240170
-
+### NAME  : VARNIKA.P
+### REG. NO.: 212223240170
 #  Mean and variance of a discrete  distribution
 
 # Aim : 
